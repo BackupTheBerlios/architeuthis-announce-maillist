@@ -1,0 +1,36 @@
+From dietmar.lippold at informatik.uni-stuttgart.de  Fri Mar 19 19:01:22 2004
+From: dietmar.lippold at informatik.uni-stuttgart.de (Dietmar Lippold)
+Date: Fri, 19 Mar 2004 19:01:22 +0100 (CET)
+Subject: [Architeuthis-announce] Neues Release von Architeuthis
+Message-ID: <200403191801.TAA15776@isis.ais.informatik.uni-stuttgart.de>
+
+Liebe Mitentwickler und Benutzer von Architeuthis,
+
+ich habe eben das neue Release 1.1 online gestellt. Gegen?ber der
+Version 1.0 habe ich Fehler und Schw?chen (z.B. im Fein-Design und in
+Kommentaren) beseitigt. Die wichtigsten ?nderungen sind im Change Log
+unter http://developer.berlios.de/project/shownotes.php?release_id=2356
+beschrieben.
+
+Bei meinen Tests mit einigen wenigen Operatives habe ich keine Probleme
+mehr festgestellt.
+
+Au?erdem habe ich auf der Projekt-Homepage einen Link auf den
+Download-Bereich eingerichtet und einige kleinere HTML-Syntax-Fehler auf
+der WWW-Seite beseitigt.
+
+Das Handbuch werde ich versuchen in den n?chsten Tagen im
+Dokumentationsbereich abzulegen. Bei der ?bersetzung vom LaTeX-Quelltext
+bekomme ich derzeit leider eine Fehlermeldung.
+
+   Tschau
+    Dietmar
+
+-- 
+Dietmar Lippold, Institut IS, Universit?t Stuttgart
+Raum 1.461, Universit?tsstra?e 38,  70569 Stuttgart
+Tel.: 0711 / 7816 - 435;     Fax: 0711 / 7816 - 340
+E-Mail: dietmar.lippold at informatik.uni-stuttgart.de
+
+
+

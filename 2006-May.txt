@@ -1,0 +1,40 @@
+From dietmar.lippold at informatik.uni-stuttgart.de  Tue May  9 13:01:19 2006
+From: dietmar.lippold at informatik.uni-stuttgart.de (Dietmar Lippold)
+Date: Tue, 9 May 2006 13:01:19 +0200 (CEST)
+Subject: [Architeuthis-announce] =?iso-8859-1?Q?Architeuthis_2.0_ver=F6ffentlicht?=
+Message-ID: <200605091101.NAA29246@isis.informatik.uni-stuttgart.de>
+
+Hallo,
+
+ich freue mich, mitteilen zu k?nnen, da? ich eben die Version 2.0 von
+Architeuthis bei berliOS ver?ffentlicht habe. Konkret habe ich folgende
+Dinge getan:
+
+ * Alle Dateien im Bereich "Dateien" ver?ffentlicht.
+
+ * Die tar-gz-Dateien sowie das Handbuch im FTP-Bereich abgelegt.
+
+ * Das Handbuch im Bereich "Dokumentation" ver?ffentlicht.
+
+ * Die zum Projekt angezeigten Bereiche auf die relevanten
+   eingeschr?nkt.
+
+ * Auf der Homepage eine Mailadresse (die der Mailingliste) zum Kontakt
+   der Entwickler angegeben.
+
+ * Eine Meldung zur Ver?ffentlichung von Version 2.0 im Bereich
+   "Neuigkeiten" ver?ffentlicht.
+
+Ich denke, bei berliOS ist jetzt alles Notwendige getan.
+
+   Tschau
+    Dietmar
+
+-- 
+Dietmar Lippold, Institut IS, Universit?t Stuttgart
+Raum 1.461, Universit?tsstra?e 38,  70569 Stuttgart
+Tel.: 0711 / 7816 - 435;     Fax: 0711 / 7816 - 340
+E-Mail: dietmar.lippold at informatik.uni-stuttgart.de
+
+
+
